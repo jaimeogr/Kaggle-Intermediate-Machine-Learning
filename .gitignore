@@ -22,3 +22,6 @@ __pycache__/
 
 # Ignore virtual environments (Python)
 venv/
+
+# Ignore data_files directory
+data_files/
