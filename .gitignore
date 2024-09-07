@@ -1,0 +1,24 @@
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore compiled code
+*.class
+*.o
+*.so
+
+# Ignore node_modules directory (for Node.js projects)
+node_modules/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore environment variable files (DO NOT SHARE .env files with secrets)
+.env
+
+# Ignore virtual environments (Python)
+venv/
